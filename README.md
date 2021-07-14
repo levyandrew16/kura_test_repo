@@ -1,4 +1,4 @@
-# kura_test_repo
+# cat pic
 
 ### What will is do to the text
 
